@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">task2_1P_ConverterApp</string>
+
+    <string name="calculateButtonText">Calculate!</string>
+    <string name="enterValueSampleText">Enter value here</string>
+
+    <string name="enterInputUnit">Input Unit</string>
+    <string name="enterOutputUnit">Output Unit</string>
+
+    <string-array name="lengthUnits">
+        <item>Centimetres (cm)</item>
+        <item>Metres (m)</item>
+        <item>Kilometres (km)</item>
+        <item>Inches (in)</item>
+        <item>Feet (ft)</item>
+        <item>Yard (yd)</item>
+        <item>Mile (mil)</item>
+    </string-array>
+</resources>
